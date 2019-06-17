@@ -1,15 +1,25 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png" />
-      <router-view></router-view>
+  <div >
+      <h5>验证vue是否支持</h5>
+
   </div>
 </template>
 
 <script>
 
-
 export default {
-  name: 'App',
+  name: 'declarative',
+  data () {
+    return {
+      name:'落花人独立，微雨燕双飞'
+    }
+  },
+  mounted () {
+
+  },
+  methods: {
+
+  }
 }
 </script>
 
