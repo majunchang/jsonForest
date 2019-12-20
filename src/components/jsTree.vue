@@ -1,11 +1,7 @@
 <template>
   <div class="hello">
-    <div v-for="(item, index) in options" :label="item.label" :style="indent">
-      <input
-        type="checkbox"
-        @click.stop="inputClick(item.id, $event)"
-        :checked="item.checked"
-      />
+    <div :key="index" v-for="(item, index) in options" :label="item.label" :style="indent">
+      <input type="checkbox" @click.stop="inputClick(item.id, $event)" :checked="item.checked" />
       {{ item.value }}
       <div v-if="item.children && item.children.length">
         <JsTree :options="item.children" :depth="item.children[0].depth" />
@@ -20,17 +16,17 @@ import axios from "axios";
 export default {
   name: "JsTree",
   props: ["options", "depth"],
-  data() {
+  data () {
     return {};
   },
   computed: {
-    indent() {
+    indent () {
       return { transform: `translate(${this.depth * 50}px)` };
     }
   },
-  mounted() {},
+  mounted () { },
   methods: {
-    inputClick(id, e) {
+    inputClick (id, e) {
       this.$events.$emit("listen", id, e.target.checked);
     }
   }

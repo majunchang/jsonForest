@@ -6,6 +6,7 @@ import router from './router'
 import 'element-ui/lib/theme-chalk/index.css'
 import Element from 'element-ui'
 import JsonForest from './plugins/jsonTranser'
+import vuelazyload from 'vue-lazyload'
 
 let jsontransfer = new JsonForest()
 console.log(jsontransfer)
@@ -13,6 +14,7 @@ Vue.use(Element)
 Vue.config.productionTip = false
 Vue.prototype.jsonTransfer = jsontransfer
 Vue.prototype.$events = new Vue()
+Vue.use(vuelazyload);
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
