@@ -8,30 +8,30 @@
         <section>SECTION-3</section>
         <section>SECTION-4</section>
         <section>SECTION-5</section>
-        <p :key="index" v-for="(item,index) in arr">{{computedProperty()}}</p>
+        <p :key="index" v-for="(item, index) in arr">
+          {{ computedProperty() }}
+        </p>
       </div>
-    </div>————————————————
+    </div>
+    ————————————————
   </div>
 </template>
 
 <script>
-
-
 export default {
-  name: 'stickyPosition',
-  data () {
+  name: "stickyPosition",
+  data() {
     return {
-      arr: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    }
+      arr: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      name: "固定定位"
+    };
   },
   methods: {
-    computedProperty () {
-      console.log('1');
-
-      return '我是计算属性'
+    computedProperty() {
+      return "我是计算属性";
     }
   }
-}
+};
 </script>
 
 <style>

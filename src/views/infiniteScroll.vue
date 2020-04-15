@@ -1,8 +1,11 @@
 <template>
   <div class="list-view" @scroll="handleScroll">
-    <div class="list-view-phantom" :style="{
-         height: contentHeight
-      }"></div>
+    <div
+      class="list-view-phantom"
+      :style="{
+        height: contentHeight
+      }"
+    ></div>
     <div ref="content" class="list-view-content">
       <div
         class="list-view-item"
@@ -11,47 +14,86 @@
         }"
         v-for="(item, index) in visibleData"
         :key="index"
-      >{{ item }}</div>
+      >
+        {{ item }}
+      </div>
     </div>
   </div>
 </template>
 
 <script>
-
-
 export default {
-  name: 'ListView',
-  data () {
+  name: "ListView",
+  data() {
     return {
       itemHeight: 60,
+
       itemHe: 30,
-      dataArr: [1, 2, 3, 4, 5, 6, 7, 8, 10, 1, 2, 3, 4, 5, 6, 7, 8, 10, 1, 2, 3, 4, 5, 6, 7, 8, 10, 1, 2, 3, 4, 5, 6, 7, 8, 10],
+      dataArr: [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
       visibleData: [1, 2, 3, 4, 5, 6, 7, 8, 10]
-    }
+    };
   },
   computed: {
-    contentHeight () {
-      return this.dataArr.length * this.itemHeight + 'px';
+    contentHeight() {
+      return this.dataArr.length * this.itemHeight + "px";
     }
   },
-  mounted () {
+  mounted() {
     this.updateVisibleData();
   },
   methods: {
-    updateVisibleData (scrollTop) {
+    updateVisibleData(scrollTop) {
       scrollTop = scrollTop || 0;
       const visibleCount = Math.ceil(this.$el.clientHeight / this.itemHeight);
       const start = Math.floor(scrollTop / this.itemHeight);
       const end = start + visibleCount;
       this.visibleData = this.dataArr.slice(start, end);
-      this.$refs.content.style.webkitTransform = `translate3d(0, ${start * this.itemHeight}px, 0)`;
+      this.$refs.content.style.webkitTransform = `translate3d(0, ${start *
+        this.itemHeight}px, 0)`;
     },
-    handleScroll () {
+    handleScroll() {
       const scrollTop = this.$el.scrollTop;
       this.updateVisibleData(scrollTop);
     }
   }
-}
+};
 </script>
 
 <style>
