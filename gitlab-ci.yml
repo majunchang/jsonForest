@@ -1,0 +1,58 @@
+stages:
+  - build
+  - deploy
+
+build_job:
+  stage: build
+  tags:
+   - t.pt.miui.com
+  before_script:
+    - npm ci
+  script:
+    ## 用于构建项目的分支或tag名称
+    - echo $CI_COMMIT_REF_NAME
+    - echo "$CI_COMMIT_REF_NAME"
+      if [ $CI_COMMIT_REF_NAME ="master" ]
+      then
+      echo "我是测试环境打包!"
+      npm run build --online
+      elif [ $CI_COMMIT_REF_NAME = "test" ]
+      then
+      npm run build --testing
+      elif [ $CI_COMMIT_REF_NAME = "dev" ]
+      then
+      npm run build --dev
+      elif [ $CI_COMMIT_REF_NAME = "refactor-deploy" ]
+      then
+      echo "我是测试环境打包!"
+      else
+      echo "Please, choose a CIEnv for build!"
+      fi
+  artifacts:
+    name: $CI_COMMIT_REF_SLUG
+    paths:
+      - dist
+    expire_in: 10 yrs
+  only:
+    refs:
+      - master
+  when: always
+
+
+deploy_dev_job:
+  stage: deploy
+  tags:
+    - t.pt.miui.com
+  script:
+    - curl "http://tj1-miui-bw-stage000.kscn:8090/?shell=/home/work/CI_CD/gitlab_cd.fe.sh&param1=/home/work/staging-webroot/mifeeds-mobile-v2&param2=$CI_COMMIT_TAG"
+  environment:
+    # 定义一个job(作业)部署到某个具名的环境
+    name: dev
+    url: "http://feed.dev.browser.miui.com/mobile-v2/"
+  only:
+    - /^dev_/
+  except:
+    - branches
+  when: manual
+
+
