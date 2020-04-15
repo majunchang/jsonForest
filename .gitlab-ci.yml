@@ -10,24 +10,7 @@ build_job:
     - npm ci
   script:
     ## 用于构建项目的分支或tag名称
-    - echo $CI_COMMIT_REF_NAME
-    - echo "$CI_COMMIT_REF_NAME"
-      if [ $CI_COMMIT_REF_NAME = "master" ]
-      then
-      echo "我是master环境打包!"
-      npm run build --online
-      elif [ $CI_COMMIT_REF_NAME = "test" ]
-      then
-      npm run build --testing
-      elif [ $CI_COMMIT_REF_NAME = "dev" ]
-      then
-      npm run build --dev
-      elif [ $CI_COMMIT_REF_NAME = "refactor-deploy" ]
-      then
-      echo "我是测试环境打包!"
-      else
-      echo "Please, choose a CIEnv for build!"
-      fi
+    - ./build.sh $CI_COMMIT_REF_NAME
   artifacts:
     name: $CI_COMMIT_REF_SLUG
     paths:
