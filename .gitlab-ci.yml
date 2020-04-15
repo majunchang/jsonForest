@@ -1,7 +1,6 @@
 stages:
   - build
   - deploy
-
 build_job:
   stage: build
   tags:
@@ -21,7 +20,7 @@ build_job:
       - master
   when: always
 
-  build_job:
+dev_job:
   stage: build
   tags:
    - t.pt.miui.com
