@@ -1,6 +1,7 @@
 stages:
   - build
   - deploy
+
 build_job:
   stage: build
   tags:
@@ -9,34 +10,32 @@ build_job:
     - npm ci
   script:
     ## 用于构建项目的分支或tag名称
-    - npm run build --online
-    - echo "我是测试环境打包!"
+    - echo $CI_COMMIT_REF_NAME
+    - echo "$CI_COMMIT_REF_NAME"
+      if [ $CI_COMMIT_REF_NAME = "master" ]
+      then
+      echo "我是master环境打包!"
+      npm run build --online
+      elif [ $CI_COMMIT_REF_NAME = "test" ]
+      then
+      npm run build --testing
+      elif [ $CI_COMMIT_REF_NAME = "dev" ]
+      then
+      npm run build --dev
+      elif [ $CI_COMMIT_REF_NAME = "refactor-deploy" ]
+      then
+      echo "我是测试环境打包!"
+      else
+      echo "Please, choose a CIEnv for build!"
+      fi
   artifacts:
     name: $CI_COMMIT_REF_SLUG
     paths:
       - dist
     expire_in: 10 yrs
   only:
+    refs:
       - master
-  when: always
-
-dev_job:
-  stage: build
-  tags:
-   - t.pt.miui.com
-  before_script:
-    - npm ci
-  script:
-    ## 用于构建项目的分支或tag名称
-    - npm run build --dev
-    - echo "我是测试环境打包!dev"
-  artifacts:
-    name: $CI_COMMIT_REF_SLUG
-    paths:
-      - dist
-    expire_in: 10 yrs
-  only:
-      - dev
   when: always
 
 
@@ -55,5 +54,4 @@ deploy_dev_job:
   except:
     - branches
   when: manual
-
 
