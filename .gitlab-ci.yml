@@ -11,6 +11,8 @@ build_job:
   script:
     ## 用于构建项目的分支或tag名称
     - ./build.sh $CI_COMMIT_REF_NAME
+    - echo 'test 名称'
+    - echo $CI_COMMIT_REF_SLUG
   artifacts:
     name: $CI_COMMIT_REF_SLUG
     paths:
