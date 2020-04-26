@@ -1,0 +1,27 @@
+{
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/mi-detail.min.js": {
+        "file": "/mi-detail.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/miuibrowser.js": {
+        "file": "/miuibrowser.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/miuibrowser.min.js": {
+        "file": "/miuibrowser.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/xknews.min.css": {
+        "file": "/xknews.min.css",
+        "mimeType": "text/css",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/xknews.css": {
+        "file": "/xknews.min.css",
+        "mimeType": "text/css",
+        "charset": "utf-8"
+    }
+}

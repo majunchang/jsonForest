@@ -1,0 +1,275 @@
+@import"//static.mcc.miui.com/base.css";
+
+/*
+* font-weight < 600
+* MIUI8以下是/system/fonts/Miui-Regular.ttf
+* MIUI8改成了/system/fonts/Miui-Light.ttf
+*/
+@font-face {
+  font-family: miui;
+  src: local(miui);
+  /* src: url(https://ts.market.mi-img.com/download/Browser/0991f44cfcab101264bf7358341b77c5d5c43ad63/Miui-Regular.ttf?origin=allow),
+    url(https://ts.market.mi-img.com/download/Browser/0991f44cfcab1d1267bf7758321b7fc5d9c43ad63/Miui-Light.ttf?origin=allow); */
+;
+}
+
+/*
+* font-weight >= 600
+* /system/fonts/Miui-Bold.ttf
+*/
+@font-face {
+  font-family: miui;
+  src: local(miui);
+  /* src: url(https://ts.market.mi-img.com/download/Browser/0991f44cffab171262bf7d58361b7bc5dbc43ad63/Miui-Bold.ttf?origin=allow); */
+  font-weight: bold;
+}
+
+html,
+body {
+  font-family: miui, "Helvetica Neue", Helvetica,Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+}
+
+.mi-mcc-imageplaceholder  {
+  background-color: #f6f6f6;
+  border-radius: .93vw;
+}
+
+img{width:100%;border-radius:.93vw;border-color:transparent}
+.border1px{position:relative;border:none}
+.border1px:after{content:"";position:absolute;top:0;left:0;border:1px solid rgba(75,97,156,.1);box-sizing:border-box;width:200%;height:200%;transform:scale(0.5);transform-origin:left top;border-radius:6.666667vw}
+.mi-mcc-referenceblock{font-size:3.611111vw;padding:3.333333vw;border-radius:1.111111vw;position:relative;background:#f7f8f9;overflow:hidden;line-height:5.555556vw;margin-bottom:5.555556vw}
+.mi-mcc-referenceblock:before{content:" ";width:1.111111vw;position:absolute;background:#e6e9eb;left:0;top:0;height:100%}
+.mi-detail{padding:0 17px;position:relative}.mi-detail a{font-size:4.166667vw;line-height:7.85vw;color:rgba(0,0,0,.8);text-decoration:none;cursor:pointer;border-bottom:1px solid gray;background-color:#fff;-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-user-select:none;-moz-user-focus:none;-moz-user-select:none}
+.mi-detail a,.mi-detail a:hover,.mi-detail a:active,.mi-detail a:visited,.mi-detail a:link,.mi-detail a:focus{-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent;outline:none;background:none;text-decoration:none}
+.mi-detail a:link{color:rgba(77,129,180,.8);border-bottom:none}
+.mi-detail a:visited{color:rgba(77,129,180,.8);border-bottom:none}
+.mi-detail a:hover{color:rgba(77,129,180,.8);border-bottom:none}
+.mi-detail a:active{color:rgba(77,129,180,.8);border-bottom:none}
+.mi-detail a,.mi-detail span{word-wrap:break-word;white-space:normal}
+.mi-detail .mi-mcc-header{
+  /* overflow: hidden; */
+  text-align: justify !important;
+  color: rgba(0,0,0,0.75);
+  margin-bottom: 10px;
+  padding-top: 17px;
+}
+.mi-detail .mi-mcc-header img{
+  vertical-align:middle;
+  border-radius: 50%;
+}
+.mi-detail .mi-mcc-header .mi-mcc-bgi{margin:-5vw;margin-bottom:6.555556vw}
+.mi-detail .mi-mcc-header .mi-mcc-bgi img{border-radius:0}
+.mi-detail .mi-mcc-header h1{
+  font-family: "mipro-semibold","FZLTHJW";
+  font-weight: 700;
+  line-height: 8.148148vw;
+  margin-bottom: 5.555556vw;
+  font-size: 6.481481vw;
+  letter-spacing: -0.092593vw;
+}
+.mi-detail .mi-mcc-header .mi-mcc-prodes{font-size:3.888889vw;line-height:5.555556vw;max-height:11vw;overflow:hidden;position:relative;color:rgba(0,0,0,.8)}
+.mi-detail .mi-mcc-header .mi-mcc-prodes a{line-height:5.555556vw}
+.mi-detail .mi-mcc-header .mi-mcc-prodes div,.mi-detail .mi-mcc-header .mi-mcc-prodes p,.mi-detail .mi-mcc-header .mi-mcc-prodes ul,.mi-detail .mi-mcc-header .mi-mcc-prodes ol,.mi-detail .mi-mcc-header .mi-mcc-prodes h1,.mi-detail .mi-mcc-header .mi-mcc-prodes h2,.mi-detail .mi-mcc-header .mi-mcc-prodes h3,.mi-detail .mi-mcc-header .mi-mcc-prodes h4,.mi-detail .mi-mcc-header .mi-mcc-prodes h5,.mi-detail .mi-mcc-header .mi-mcc-prodes h6,.mi-detail .mi-mcc-header .mi-mcc-prodes textarea,.mi-detail .mi-mcc-header .mi-mcc-prodes pre,.mi-detail .mi-mcc-header .mi-mcc-prodes hr,.mi-detail .mi-mcc-header .mi-mcc-prodes iframe,.mi-detail .mi-mcc-header .mi-mcc-prodes blockquote{margin-bottom:7vw;color:rgba(34,34,34,.8);font-size:4.7255vw;font-weight:400;word-wrap:break-word;white-space:normal}
+.mi-detail .mi-mcc-header .mi-mcc-prodes .unfold{position:absolute;display:inline-block;bottom:0px;right:0;width:50%;text-align:right;line-height:5.555556vw;background:linear-gradient(to left, white 50%, rgba(255, 255, 255, 0) 100%);font-size:3.611111vw;color:rgba(34,34,34,.3)}
+.mi-detail .mi-mcc-header .mi-mcc-prodes .fold{bottom:-5.555556vw}.mi-detail .mi-mcc-header .mi-mcc-unfold{overflow:unset;max-height:unset}
+.mi-detail .mi-mcc-header .mi-mcc-source{
+  line-height:4.444444vw;
+  margin-bottom:10px;
+  position:relative;}
+
+.mi-detail .mi-mcc-header .mi-mcc-source .mi-mcc-sourceicon img:after{content:"";position:absolute;top:0;left:0;border:1px solid rgba(0,0,0,.1);box-sizing:border-box;width:200%;height:200%;transform:scale(0.5);transform-origin:left top;border-radius:9.074074vw}
+
+.mi-detail .mi-mcc-header .mi-mcc-source .source-follow{height:6.666667vw;width:14.814815vw;position:absolute;right:0;top:1vw}
+.mi-detail .mi-mcc-content{
+  font-size:27px;
+  text-align:justify;
+  line-height:7.85vw;
+  font-family: 'mipro-regular','miui',Helvetica,"Microsoft YaHei",Arial,sans-serif!important;
+}
+.mi-detail .mi-mcc-content div,.mi-detail .mi-mcc-content p,.mi-detail .mi-mcc-content ul,.mi-detail .mi-mcc-content ol,.mi-detail .mi-mcc-content h1,.mi-detail .mi-mcc-content h2,.mi-detail .mi-mcc-content h3,.mi-detail .mi-mcc-content h4,.mi-detail .mi-mcc-content h5,.mi-detail .mi-mcc-content h6,.mi-detail .mi-mcc-content textarea,.mi-detail .mi-mcc-content pre,.mi-detail .mi-mcc-content hr,.mi-detail .mi-mcc-content iframe,.mi-detail .mi-mcc-content blockquote{
+  margin-bottom:3.5vw;
+  color:#000;
+  font-size: 5vw;
+  line-height: 7.8vw;
+  font-weight:400;
+  word-wrap:break-word;
+  white-space:normal;
+}
+.mi-detail .mi-mcc-content .mi-mcc-referenceblock{font-size:3.611111vw;padding:3.333333vw;padding-left:4.444444vw;border-radius:1.111111vw;position:relative;background:#f7f8f9;overflow:hidden;line-height:5.555556vw;margin-bottom:5.555556vw}
+.mi-detail .mi-mcc-content .mi-mcc-referenceblock:before{content:" ";width:1.111111vw;position:absolute;background:#e6e9eb;left:0;top:0;height:100%}
+.mi-detail .mi-mcc-content .big-text{font-size:4.722222vw}
+.mi-detail .mi-mcc-content .big-bold-text{margin:6.481481vw 0;font-weight:700;line-height:7.85vw;text-align:justify;font-size:4.722222vw}
+.mi-detail .mi-mcc-content .bold-text{font-weight:700;display:inline;font-size:4.166667vw;line-height:7.85vw}
+.mi-detail .mi-mcc-content .line-through{text-decoration:line-through;font-size:3.611111vw;line-height:5.555556vw;display:inline}
+.mi-detail .mi-mcc-content ul,.mi-detail .mi-mcc-content ol{margin-left:3.703704vw}
+.mi-detail .mi-mcc-content ul li,.mi-detail .mi-mcc-content ol li{font-size:4.166667vw;color:rgba(34,34,34,.8);text-align:justify;line-height:7.85vw;margin-bottom:3.888889vw}
+
+.mi-detail .mi-mcc-content .mi-mcc-image{
+  border-radius:1.666667vw;
+  font-size:3.055556vw;
+  line-height:1;
+  position:relative;
+}
+
+.mi-detail .mi-mcc-content .mi-mcc-image img[src=""],.mi-detail .mi-mcc-content .mi-mcc-image img:not([src]){opacity:0}
+
+.mi-detail .mi-mcc-content .mi-mcc-image span {
+  position:absolute;
+  color:rgba(34,34,34,.3);
+  font-size:3.055556vw;
+  line-height:3.981481vw;
+  bottom: 0;
+}
+
+.mi-detail .mi-mcc-content .mi-mcc-image .bcgi{display:inline-block;background:url("//static.mcc.miui.com/gif.png") 50% 50% no-repeat;width:100%;position:absolute;left:0;top:0}.mi-detail .mi-mcc-content .mi-mcc-image .canvas{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%)}.mi-detail .mi-mcc-content .mi-mcc-image img{position:absolute;top:0;left:0}.mi-detail .mi-mcc-content .mi-mcc-gif{position:relative;border-radius:1.666667vw;height:0}.mi-detail .mi-mcc-content .mi-mcc-gif .bcgi{display:inline-block;background:url("//static.mcc.miui.com/gif.png") 50% 50% no-repeat;width:100%;position:absolute;left:0;top:0}.mi-detail .mi-mcc-content .mi-mcc-gif i{background-color:#f6f6f6;position:absolute;width:100%;display:inline-block;left:0;top:0;bottom:0;right:0;border-radius:.93vw}.mi-detail .mi-mcc-content .mi-mcc-gif .canvas{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%)}.mi-detail .mi-mcc-content .mi-mcc-gif img[src=""],.mi-detail .mi-mcc-content .mi-mcc-gif img:not([src]){position:relative;opacity:0}
+.mi-detail .mi-mcc-content .mi-mcc-copyright{
+  margin-top: -2px;
+  font-size:0;
+  color:rgba(34,34,34,.8);
+  line-height:4.62963vw;
+}
+.mi-detail .mi-mcc-content .mi-mcc-copyright .mi-mcc-copyright-img{width:4.444444vw;height:4.444444vw;margin-right:1.944444vw;vertical-align:middle;border-radius:0}.mi-detail .mi-mcc-content .mi-mcc-copyright .mi-mcc-copyright-text{color:rgba(34,34,34,.3);font-size:3.055556vw;vertical-align:middle}.mi-detail .next,.mi-detail .next-answer{height:11.851852vw;min-width:11.851852vw;position:absolute;bottom:4.62963vw;right:5vw;border-radius:6vw;padding:0 3.888889vw;border:1px solid #ccc;background-size:cover}.mi-detail .next{background-image:url()}.mi-detail .next-answer{background-image:url()}.mi-detail .mi-mcc-video{position:relative}.mi-detail .mi-mcc-video i{display:inline-block;color:#fff;font-size:3.333333vw;font-style:normal}.mi-detail .mi-mcc-video .play-icon{display:inline-block;width:12.037037vw;height:12.037037vw;background-image:url("//static.mcc.miui.com/video_play.png");position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);background-size:cover}.mi-detail .mi-mcc-video .play-icon-pause{background-image:url("//static.mcc.miui.com/video_pause.png")}.mi-detail .mi-mcc-video .play-icon-rebroadcast{background-image:url("//static.mcc.miui.com/video_rebroadcast.png")}.mi-detail .mi-mcc-video .play-icon-loading{background-image:url("//static.mcc.miui.com/video_loading.png")}.mi-detail .mi-mcc-video .all-infos{padding:2.962963vw 4.907407vw;position:absolute;bottom:0;left:0;margin:0;width:100%;justify-content:center;align-items:center;display:none}.mi-detail .mi-mcc-video .progress{margin:0 2.962963vw;flex:1;background-color:#fff;height:.555556vw;border-radius:.277778vw;position:relative}.mi-detail .mi-mcc-video .progress .has-p{background-color:#09f;border-radius:.277778vw;height:100%;position:absolute;top:0;left:0}.mi-detail .mi-mcc-video .all-time{margin-right:2.962963vw}.mi-detail .mi-mcc-video .full-screen{height:4.444444vw;width:4.444444vw;background-image:url("//static.mcc.miui.com/video_amplify.png");background-size:cover}.mi-detail .mi-mcc-video .reduce-full-screen{background-image:url("//static.mcc.miui.com/video_reduce.png")}/*# sourceMappingURL=index.css.map */
+
+video.mi-mcc-video {
+  display: none;
+}
+
+.mi-detail .mi-mcc-content {
+  text-align: justify;
+}
+
+.mi-detail a {
+  color: #000  !important;
+}
+.mi-mcc-source-follow{
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: none;
+  width:53px;
+  height:27px;
+  align-items: center;
+  justify-content: center;
+  line-height: 28px;
+  font-size: 11px;
+  text-align: center;
+  font-weight: 800;
+  color: rgba(255, 74, 47, 1);
+  background:rgba(249,249,249,1);
+  border-radius:3px;
+  z-index:100;
+}
+.noadd .follow-icon{
+  display: inline-block;
+  height: 10px;
+  margin-right: 2px;
+  width: 10px;
+  background: url(http://t1.market.xiaomi.com/download/Browser/0173b5d114ac5dbf82527bbc9f948d224d342a5c1);
+  background-size:100% 100%;
+}
+.added .follow-btn{
+  color:rgba(69,73,77,1);
+}
+/* .mi-mcc-source-author,
+.mi-mcc-des {
+  display: block !important;
+  float: none !important;
+}
+
+.mi-mcc-sourceicon {
+  display: none !important;
+} */
+.mi-detail .mi-mcc-header .mi-mcc-source .mi-mcc-source-author{
+  font-size:15px;
+  font-weight:800;
+  /* line-height:5.407407vw; */
+  line-height: 20px;
+  float:left;
+  color: (0,0,0,0.8);
+  width:auto;
+  margin-right: 7px;
+}
+.mi-detail .mi-mcc-header .mi-mcc-source .mi-mcc-des{
+  margin-top: 2px;
+  width:auto;
+  color:rgba(34,34,34,.3);
+  height:3.981481vw;
+  line-height:3.981481vw;
+  font-size:11px;
+  float:left;
+  line-height: 14px;
+}
+.mi-detail .mi-mcc-header .mi-mcc-showavator .mi-mcc-des,
+.mi-detail .mi-mcc-header .mi-mcc-showavator .mi-mcc-source-author{
+  width:calc(100% - 20vw);
+}
+
+
+.mi-mcc-source {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.mi-mcc-showavator {
+  display: block;
+}
+.mi-detail .mi-mcc-header .mi-mcc-source .mi-mcc-sourceicon {
+  display: none;
+}
+.mi-detail .mi-mcc-header .mi-mcc-showavator .mi-mcc-sourceicon {
+  width:36px;
+  height:36px;
+  display:inline-block;
+  margin-right:2.222222vw;
+  vertical-align:middle;
+  background-color:#f6f6f6;
+  position:relative;
+  overflow:hidden;
+  float:left;
+  border-radius:5vw
+}
+.mi-mcc-header::after {
+  content: "";
+  display: block;
+  height: 0;
+  width: 0;
+  clear: both;
+}
+.mi-detail table {
+  font-size: 18px;
+  line-height: 1.76;
+}
+.mi-detail table tr td, .mi-detail table tr th{
+  padding: 5px 3px 5px 3px;
+  border: 1px solid #ddd;
+}
+.mi-detail table tr td {
+  text-align: center;
+  font-size: 12px;
+  color: #444;
+  line-height: 24px;
+}
+.mi-detail table tr:nth-child(2n), .mi-detail table tr th {
+  background: rgba(240,240,240,0.4);
+}
+.xk-detail__readmore{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 58px;
+  font-size: 18px;
+  background:rgba(255,255,255,1);
+  color:rgba(53,119,229,1);
+}
+.xk-detail__read-more_tip::after{
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  height: 15px;
+  width: 15px;
+  background: url(http://t1.market.xiaomi.com/download/Browser/0e476f58985e7498c0cf0dc3836401009630289ea) no-repeat;
+  background-size: contain;
+}
+/* */

@@ -1,0 +1,22 @@
+{
+  "//feed.browser.miui.com/mobile-v2/es6-promise.auto.min.js": {
+    "file": "/es6-promise.auto.min.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/axios.min.js": {
+    "file": "/axios.min.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/vue.runtime.min.js": {
+    "file": "/vue.runtime.min.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/vue-router.min.js": {
+    "file": "/vue-router.min.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  }
+}

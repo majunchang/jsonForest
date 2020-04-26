@@ -1,0 +1,137 @@
+{
+  "mining/miner1Animation/data.json": {
+    "file": "/mining/miner1Animation/data.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "mining/miner1Animation/images/img_0.png": {
+    "file": "/mining/miner1Animation/images/img_0.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner1Animation/images/img_1.png": {
+    "file": "/mining/miner1Animation/images/img_1.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner1Animation/images/img_2.png": {
+    "file": "/mining/miner1Animation/images/img_2.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner1Animation/images/img_3.png": {
+    "file": "/mining/miner1Animation/images/img_3.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner2Animation/data.json": {
+    "file": "/mining/miner2Animation/data.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "mining/miner2Animation/images/img_0.png": {
+    "file": "/mining/miner2Animation/images/img_0.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner2Animation/images/img_1.png": {
+    "file": "/mining/miner2Animation/images/img_1.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner2Animation/images/img_2.png": {
+    "file": "/mining/miner2Animation/images/img_2.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner2Animation/images/img_3.png": {
+    "file": "/mining/miner2Animation/images/img_3.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner3Animation/data.json": {
+    "file": "/mining/miner3Animation/data.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "mining/miner3Animation/images/img_0.png": {
+    "file": "/mining/miner3Animation/images/img_0.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner3Animation/images/img_1.png": {
+    "file": "/mining/miner3Animation/images/img_1.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner3Animation/images/img_2.png": {
+    "file": "/mining/miner3Animation/images/img_2.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner3Animation/images/img_3.png": {
+    "file": "/mining/miner3Animation/images/img_3.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner4Animation/data.json": {
+    "file": "/mining/miner4Animation/data.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "mining/miner4Animation/images/img_0.png": {
+    "file": "/mining/miner4Animation/images/img_0.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner4Animation/images/img_1.png": {
+    "file": "/mining/miner4Animation/images/img_1.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner4Animation/images/img_2.png": {
+    "file": "/mining/miner4Animation/images/img_2.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/miner4Animation/images/img_3.png": {
+    "file": "/mining/miner4Animation/images/img_3.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/tunnalAnimation/data.json": {
+    "file": "/mining/tunnalAnimation/data.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "mining/tunnalAnimation/images/img_0.png": {
+    "file": "/mining/tunnalAnimation/images/img_0.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/tunnalAnimation/images/img_1.png": {
+    "file": "/mining/tunnalAnimation/images/img_1.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/tunnalAnimation/images/img_2.png": {
+    "file": "/mining/tunnalAnimation/images/img_2.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/tunnalAnimation/images/img_3.png": {
+    "file": "/mining/tunnalAnimation/images/img_3.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/tunnalAnimation/images/img_4.png": {
+    "file": "/mining/tunnalAnimation/images/img_4.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "mining/tunnalAnimation/images/img_5.png": {
+    "file": "/mining/tunnalAnimation/images/img_5.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  }
+}

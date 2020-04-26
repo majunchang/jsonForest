@@ -1,0 +1,1812 @@
+{
+  "//feed.browser.miui.com/mobile-v2/css/app.ac770c5b.css": {
+    "file": "/css/app.ac770c5b.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/app.73d77d37.js": {
+    "file": "/js/app.73d77d37.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-vendors.1565d8d3.css": {
+    "file": "/css/chunk-vendors.1565d8d3.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-vendors.2fe79bb3.js": {
+    "file": "/js/chunk-vendors.2fe79bb3.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/runtime~app.0cbd8a42.js": {
+    "file": "/js/runtime~app.0cbd8a42.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-007d64d8.ff82ee1a.js": {
+    "file": "/js/chunk-007d64d8.ff82ee1a.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-02886524.27e838d2.js": {
+    "file": "/js/chunk-02886524.27e838d2.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-02aec684.2220ddac.js": {
+    "file": "/js/chunk-02aec684.2220ddac.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-03ff38dc.c3d0a72e.js": {
+    "file": "/js/chunk-03ff38dc.c3d0a72e.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-0425bee0.3f67c711.js": {
+    "file": "/js/chunk-0425bee0.3f67c711.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-08d63943.69d3ddd1.js": {
+    "file": "/js/chunk-08d63943.69d3ddd1.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-1424e30b.24756f10.js": {
+    "file": "/js/chunk-1424e30b.24756f10.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-1503d09f.5561a89d.js": {
+    "file": "/js/chunk-1503d09f.5561a89d.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-16f50466.86251ef5.js": {
+    "file": "/js/chunk-16f50466.86251ef5.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-1909eb98.030d4682.js": {
+    "file": "/js/chunk-1909eb98.030d4682.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-1b78e38c.de15170e.js": {
+    "file": "/js/chunk-1b78e38c.de15170e.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-1c4012ec.c1ed7020.js": {
+    "file": "/js/chunk-1c4012ec.c1ed7020.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-1de66aa7.f999e8db.js": {
+    "file": "/js/chunk-1de66aa7.f999e8db.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-1f131a0e.7d9bf443.js": {
+    "file": "/js/chunk-1f131a0e.7d9bf443.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-21365ca8.0d4d85b8.js": {
+    "file": "/js/chunk-21365ca8.0d4d85b8.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-243c0b35.134fdbc6.js": {
+    "file": "/js/chunk-243c0b35.134fdbc6.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-25508ad8.869ff801.js": {
+    "file": "/js/chunk-25508ad8.869ff801.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-27a2c818.8d7ea7ee.js": {
+    "file": "/js/chunk-27a2c818.8d7ea7ee.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-2a23b107.9074718f.js": {
+    "file": "/js/chunk-2a23b107.9074718f.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-2ad435bc.f74900eb.js": {
+    "file": "/js/chunk-2ad435bc.f74900eb.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-2af2d518.8c4e0eca.js": {
+    "file": "/js/chunk-2af2d518.8c4e0eca.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-2d2170dd.59d52560.js": {
+    "file": "/js/chunk-2d2170dd.59d52560.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-2e2b227e.262ada8c.js": {
+    "file": "/js/chunk-2e2b227e.262ada8c.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-2ef4c91c.1207f82c.js": {
+    "file": "/js/chunk-2ef4c91c.1207f82c.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-2f7e5bec.a1bad8de.js": {
+    "file": "/js/chunk-2f7e5bec.a1bad8de.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-33a2df46.d6475b3e.js": {
+    "file": "/js/chunk-33a2df46.d6475b3e.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-345c69ec.c5ad4da2.js": {
+    "file": "/js/chunk-345c69ec.c5ad4da2.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-358450da.a49c5773.js": {
+    "file": "/js/chunk-358450da.a49c5773.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-3be4268a.e2d29cde.js": {
+    "file": "/js/chunk-3be4268a.e2d29cde.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-3c3a3c09.31d96b64.js": {
+    "file": "/js/chunk-3c3a3c09.31d96b64.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-3ed17f52.acea19c2.js": {
+    "file": "/js/chunk-3ed17f52.acea19c2.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-428cccc3.efb2da43.js": {
+    "file": "/js/chunk-428cccc3.efb2da43.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-55317040.129b9153.js": {
+    "file": "/js/chunk-55317040.129b9153.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-566d7e88.e4d45355.js": {
+    "file": "/js/chunk-566d7e88.e4d45355.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-5b0d02fd.1dee2cd4.js": {
+    "file": "/js/chunk-5b0d02fd.1dee2cd4.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-64426cda.9caaabe6.js": {
+    "file": "/js/chunk-64426cda.9caaabe6.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-6acabb29.a65b8d8b.js": {
+    "file": "/js/chunk-6acabb29.a65b8d8b.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-6b554c6c.e942487a.js": {
+    "file": "/js/chunk-6b554c6c.e942487a.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-6c1a7d20.40aa4e1e.js": {
+    "file": "/js/chunk-6c1a7d20.40aa4e1e.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-6c80e7d6.c6f72c31.js": {
+    "file": "/js/chunk-6c80e7d6.c6f72c31.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-6f81d085.5bf6b9fb.js": {
+    "file": "/js/chunk-6f81d085.5bf6b9fb.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-75d0dd22.42843f9b.js": {
+    "file": "/js/chunk-75d0dd22.42843f9b.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-769b57bd.79b8bb1a.js": {
+    "file": "/js/chunk-769b57bd.79b8bb1a.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-777de22d.07926b94.js": {
+    "file": "/js/chunk-777de22d.07926b94.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-79cc917a.8ec946f2.js": {
+    "file": "/js/chunk-79cc917a.8ec946f2.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-7f70d583.620c3cb2.js": {
+    "file": "/js/chunk-7f70d583.620c3cb2.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-7fab017a.4af76f4d.js": {
+    "file": "/js/chunk-7fab017a.4af76f4d.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-8067a526.49711eb8.js": {
+    "file": "/js/chunk-8067a526.49711eb8.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-8fcfaa1c.13781b17.js": {
+    "file": "/js/chunk-8fcfaa1c.13781b17.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-9dedfaa4.7112383a.js": {
+    "file": "/js/chunk-9dedfaa4.7112383a.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-9e5ec496.b9cded3b.js": {
+    "file": "/js/chunk-9e5ec496.b9cded3b.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-a7c04e5c.db4658f9.js": {
+    "file": "/js/chunk-a7c04e5c.db4658f9.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-abc4c4da.93955837.js": {
+    "file": "/js/chunk-abc4c4da.93955837.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-b459c790.262e8044.js": {
+    "file": "/js/chunk-b459c790.262e8044.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-b66775fa.ec3d2566.js": {
+    "file": "/js/chunk-b66775fa.ec3d2566.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-c041ebb6.09094f44.js": {
+    "file": "/js/chunk-c041ebb6.09094f44.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-cc9bb026.0f42ff4d.js": {
+    "file": "/js/chunk-cc9bb026.0f42ff4d.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-cc9fc394.5c38a951.js": {
+    "file": "/js/chunk-cc9fc394.5c38a951.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-ce4bd02a.51bb2525.js": {
+    "file": "/js/chunk-ce4bd02a.51bb2525.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-d90f7020.37391ae6.js": {
+    "file": "/js/chunk-d90f7020.37391ae6.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/js/chunk-dd83ed4c.26b6840f.js": {
+    "file": "/js/chunk-dd83ed4c.26b6840f.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/service-worker1586943019680.js": {
+    "file": "/service-worker1586943019680.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/v.js": {
+    "file": "/v.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/video-js.min.js": {
+    "file": "/video-js.min.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/workbox-5d3caa67.js": {
+    "file": "/workbox-5d3caa67.js",
+    "mimeType": "text/javascript",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-007d64d8.bd29ca63.css": {
+    "file": "/css/chunk-007d64d8.bd29ca63.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-02886524.7b2911f0.css": {
+    "file": "/css/chunk-02886524.7b2911f0.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-02aec684.0005ba78.css": {
+    "file": "/css/chunk-02aec684.0005ba78.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-03ff38dc.837d2141.css": {
+    "file": "/css/chunk-03ff38dc.837d2141.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-0425bee0.89ea9bba.css": {
+    "file": "/css/chunk-0425bee0.89ea9bba.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-08d63943.5c76214f.css": {
+    "file": "/css/chunk-08d63943.5c76214f.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-1424e30b.bc07a30b.css": {
+    "file": "/css/chunk-1424e30b.bc07a30b.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-1503d09f.81166077.css": {
+    "file": "/css/chunk-1503d09f.81166077.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-16f50466.d5319469.css": {
+    "file": "/css/chunk-16f50466.d5319469.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-1909eb98.70c24341.css": {
+    "file": "/css/chunk-1909eb98.70c24341.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-1b78e38c.93c85da3.css": {
+    "file": "/css/chunk-1b78e38c.93c85da3.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-1c4012ec.8f697b7b.css": {
+    "file": "/css/chunk-1c4012ec.8f697b7b.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-1de66aa7.083862cc.css": {
+    "file": "/css/chunk-1de66aa7.083862cc.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-1f131a0e.d7a640d7.css": {
+    "file": "/css/chunk-1f131a0e.d7a640d7.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-21365ca8.41b6341c.css": {
+    "file": "/css/chunk-21365ca8.41b6341c.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-243c0b35.f1ab23d0.css": {
+    "file": "/css/chunk-243c0b35.f1ab23d0.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-25508ad8.d3610907.css": {
+    "file": "/css/chunk-25508ad8.d3610907.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-27a2c818.994212db.css": {
+    "file": "/css/chunk-27a2c818.994212db.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-2a23b107.73e9154e.css": {
+    "file": "/css/chunk-2a23b107.73e9154e.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-2ad435bc.971a5aac.css": {
+    "file": "/css/chunk-2ad435bc.971a5aac.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-2af2d518.b963ae22.css": {
+    "file": "/css/chunk-2af2d518.b963ae22.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-2e2b227e.a70211c6.css": {
+    "file": "/css/chunk-2e2b227e.a70211c6.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-2ef4c91c.f69d84ad.css": {
+    "file": "/css/chunk-2ef4c91c.f69d84ad.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-2f7e5bec.137bda95.css": {
+    "file": "/css/chunk-2f7e5bec.137bda95.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-33a2df46.84bcbccb.css": {
+    "file": "/css/chunk-33a2df46.84bcbccb.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-345c69ec.a61909d5.css": {
+    "file": "/css/chunk-345c69ec.a61909d5.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-358450da.3c1642ec.css": {
+    "file": "/css/chunk-358450da.3c1642ec.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-3be4268a.10b6ff5e.css": {
+    "file": "/css/chunk-3be4268a.10b6ff5e.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-3c3a3c09.63e2c27d.css": {
+    "file": "/css/chunk-3c3a3c09.63e2c27d.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-3ed17f52.a31be725.css": {
+    "file": "/css/chunk-3ed17f52.a31be725.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-428cccc3.9e1f3461.css": {
+    "file": "/css/chunk-428cccc3.9e1f3461.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-55317040.01434b4e.css": {
+    "file": "/css/chunk-55317040.01434b4e.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-566d7e88.12533560.css": {
+    "file": "/css/chunk-566d7e88.12533560.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-5b0d02fd.1522aa40.css": {
+    "file": "/css/chunk-5b0d02fd.1522aa40.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-64426cda.f285217b.css": {
+    "file": "/css/chunk-64426cda.f285217b.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-6acabb29.06e9bc9e.css": {
+    "file": "/css/chunk-6acabb29.06e9bc9e.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-6b554c6c.8d88f126.css": {
+    "file": "/css/chunk-6b554c6c.8d88f126.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-6c1a7d20.c60d328c.css": {
+    "file": "/css/chunk-6c1a7d20.c60d328c.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-6c80e7d6.5e09fc8f.css": {
+    "file": "/css/chunk-6c80e7d6.5e09fc8f.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-6f81d085.1c3a28bb.css": {
+    "file": "/css/chunk-6f81d085.1c3a28bb.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-75d0dd22.3b93b1b5.css": {
+    "file": "/css/chunk-75d0dd22.3b93b1b5.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-769b57bd.799d6fe4.css": {
+    "file": "/css/chunk-769b57bd.799d6fe4.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-777de22d.04be243a.css": {
+    "file": "/css/chunk-777de22d.04be243a.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-79cc917a.8c60cb86.css": {
+    "file": "/css/chunk-79cc917a.8c60cb86.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-7f70d583.42808825.css": {
+    "file": "/css/chunk-7f70d583.42808825.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-7fab017a.08ce454d.css": {
+    "file": "/css/chunk-7fab017a.08ce454d.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-8067a526.76e9f90c.css": {
+    "file": "/css/chunk-8067a526.76e9f90c.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-8fcfaa1c.08d467f0.css": {
+    "file": "/css/chunk-8fcfaa1c.08d467f0.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-9dedfaa4.ec3c9f43.css": {
+    "file": "/css/chunk-9dedfaa4.ec3c9f43.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-9e5ec496.668378d2.css": {
+    "file": "/css/chunk-9e5ec496.668378d2.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-a7c04e5c.76217539.css": {
+    "file": "/css/chunk-a7c04e5c.76217539.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-abc4c4da.fcb52996.css": {
+    "file": "/css/chunk-abc4c4da.fcb52996.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-b459c790.8040d2e6.css": {
+    "file": "/css/chunk-b459c790.8040d2e6.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-b66775fa.8c24edf8.css": {
+    "file": "/css/chunk-b66775fa.8c24edf8.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-c041ebb6.e5217a3b.css": {
+    "file": "/css/chunk-c041ebb6.e5217a3b.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-cc9bb026.e3ba2f5e.css": {
+    "file": "/css/chunk-cc9bb026.e3ba2f5e.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-cc9fc394.62779a12.css": {
+    "file": "/css/chunk-cc9fc394.62779a12.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-ce4bd02a.2748cf76.css": {
+    "file": "/css/chunk-ce4bd02a.2748cf76.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-d90f7020.68e4aacf.css": {
+    "file": "/css/chunk-d90f7020.68e4aacf.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/css/chunk-dd83ed4c.ed00d925.css": {
+    "file": "/css/chunk-dd83ed4c.ed00d925.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/video-js.min.css": {
+    "file": "/video-js.min.css",
+    "mimeType": "text/css",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/detail.json": {
+    "file": "/detail.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/map.json": {
+    "file": "/map.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/offlineCache.common.demotion.json": {
+    "file": "/offlineCache.common.demotion.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/offlineCache.common.json": {
+    "file": "/offlineCache.common.json",
+    "mimeType": "application/json",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/1.756bed00.webp": {
+    "file": "/img/1.756bed00.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/activityRule-title.395cd327.webp": {
+    "file": "/img/activityRule-title.395cd327.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/alertLinkman.a46ea7d1.webp": {
+    "file": "/img/alertLinkman.a46ea7d1.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/award-active.3f06b854.webp": {
+    "file": "/img/award-active.3f06b854.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/award-tip.3a12dd80.webp": {
+    "file": "/img/award-tip.3a12dd80.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/back-dialog-bg.d20acb0f.webp": {
+    "file": "/img/back-dialog-bg.d20acb0f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/background.f69e98ed.webp": {
+    "file": "/img/background.f69e98ed.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/badluck-icon.846fa057.webp": {
+    "file": "/img/badluck-icon.846fa057.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/bg.487c520f.webp": {
+    "file": "/img/bg.487c520f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/bg.608e551d.webp": {
+    "file": "/img/bg.608e551d.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/bg.65608b51.webp": {
+    "file": "/img/bg.65608b51.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/bg.7b055255.webp": {
+    "file": "/img/bg.7b055255.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/big-award-tip.f9349597.webp": {
+    "file": "/img/big-award-tip.f9349597.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/calendar.afa47735.webp": {
+    "file": "/img/calendar.afa47735.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/calendar.d656139a.webp": {
+    "file": "/img/calendar.d656139a.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/cancel-0.2385241a.webp": {
+    "file": "/img/cancel-0.2385241a.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/cancel-1.45e4bb6f.webp": {
+    "file": "/img/cancel-1.45e4bb6f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/cashPlaceholder.4b7a2a30.webp": {
+    "file": "/img/cashPlaceholder.4b7a2a30.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/channel.24d855da.webp": {
+    "file": "/img/channel.24d855da.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/cloudLeft.d8db7b06.webp": {
+    "file": "/img/cloudLeft.d8db7b06.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/cloudRight.ba8c070e.webp": {
+    "file": "/img/cloudRight.ba8c070e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/coin-icon.b303ba91.webp": {
+    "file": "/img/coin-icon.b303ba91.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/coin-modal.a9b60455.webp": {
+    "file": "/img/coin-modal.a9b60455.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/coin.53adb862.webp": {
+    "file": "/img/coin.53adb862.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/confirm-0.ae020a46.webp": {
+    "file": "/img/confirm-0.ae020a46.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/confirm-1.89c7c6f6.webp": {
+    "file": "/img/confirm-1.89c7c6f6.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/congratulateModal.35cec1c0.webp": {
+    "file": "/img/congratulateModal.35cec1c0.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/coupon-10.3ba7b1f6.webp": {
+    "file": "/img/coupon-10.3ba7b1f6.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/coupon-20.92cf01b8.webp": {
+    "file": "/img/coupon-20.92cf01b8.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/coupon.d0944cce.webp": {
+    "file": "/img/coupon.d0944cce.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/depositAccount.a0751d5a.webp": {
+    "file": "/img/depositAccount.a0751d5a.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/dialog-bg.6c943f0b.webp": {
+    "file": "/img/dialog-bg.6c943f0b.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/dialog-icon.e5c8f5e5.webp": {
+    "file": "/img/dialog-icon.e5c8f5e5.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/dialog.3623dcbb.webp": {
+    "file": "/img/dialog.3623dcbb.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/dialog.e942a16d.webp": {
+    "file": "/img/dialog.e942a16d.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/dialogHeader.db0d27c3.webp": {
+    "file": "/img/dialogHeader.db0d27c3.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/exchange-btn.97e2aa05.webp": {
+    "file": "/img/exchange-btn.97e2aa05.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/exchangeCoin.dcfbf4e2.webp": {
+    "file": "/img/exchangeCoin.dcfbf4e2.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/face.89ec270a.webp": {
+    "file": "/img/face.89ec270a.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/facePrizebg.e0bdf717.webp": {
+    "file": "/img/facePrizebg.e0bdf717.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/getGoldIconModal.1dd25b81.webp": {
+    "file": "/img/getGoldIconModal.1dd25b81.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/gift.5f1a72f4.webp": {
+    "file": "/img/gift.5f1a72f4.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/goods.c4d43667.webp": {
+    "file": "/img/goods.c4d43667.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/goto-app.f1d79e9c.webp": {
+    "file": "/img/goto-app.f1d79e9c.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/group.164e024b.webp": {
+    "file": "/img/group.164e024b.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/guide0.50347e0e.webp": {
+    "file": "/img/guide0.50347e0e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/guide1.bd1ebc54.webp": {
+    "file": "/img/guide1.bd1ebc54.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/guide2.068f852e.webp": {
+    "file": "/img/guide2.068f852e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/income-bg.7af3ce02.webp": {
+    "file": "/img/income-bg.7af3ce02.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/income-btn.ba038721.webp": {
+    "file": "/img/income-btn.ba038721.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/init-btn.b22590fc.webp": {
+    "file": "/img/init-btn.b22590fc.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/inspect-btn.64877ca4.webp": {
+    "file": "/img/inspect-btn.64877ca4.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/inspect.0e28ae04.webp": {
+    "file": "/img/inspect.0e28ae04.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/invitation-bg.d38e5295.webp": {
+    "file": "/img/invitation-bg.d38e5295.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/invitation-btn.6b6ea4a6.webp": {
+    "file": "/img/invitation-btn.6b6ea4a6.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/invite-more.726295a7.webp": {
+    "file": "/img/invite-more.726295a7.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/invite.94fa084e.webp": {
+    "file": "/img/invite.94fa084e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/know.1108cbea.webp": {
+    "file": "/img/know.1108cbea.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/light.6a499c77.webp": {
+    "file": "/img/light.6a499c77.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/location.f31d7772.webp": {
+    "file": "/img/location.f31d7772.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lottery-light-2.a7b0026b.webp": {
+    "file": "/img/lottery-light-2.a7b0026b.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lottery-light.6b717bef.webp": {
+    "file": "/img/lottery-light.6b717bef.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lucky-pool.bb1435bb.webp": {
+    "file": "/img/lucky-pool.bb1435bb.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lucky-star.a42dc039.webp": {
+    "file": "/img/lucky-star.a42dc039.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/miner1.81c692ac.webp": {
+    "file": "/img/miner1.81c692ac.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/miner2.22ad357b.webp": {
+    "file": "/img/miner2.22ad357b.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/miner3.de44a401.webp": {
+    "file": "/img/miner3.de44a401.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/miner4.b0a80bd3.webp": {
+    "file": "/img/miner4.b0a80bd3.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/modal.27ff7fea.webp": {
+    "file": "/img/modal.27ff7fea.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/moments.d5955e84.webp": {
+    "file": "/img/moments.d5955e84.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/more-invite.e4789046.webp": {
+    "file": "/img/more-invite.e4789046.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/needupdate-banner.abb21c7f.webp": {
+    "file": "/img/needupdate-banner.abb21c7f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/needupdate-content.2549f772.webp": {
+    "file": "/img/needupdate-content.2549f772.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/needupdate-content.40810e6e.webp": {
+    "file": "/img/needupdate-content.40810e6e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/nomoney.8d5b40e1.webp": {
+    "file": "/img/nomoney.8d5b40e1.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/open.360eccbc.webp": {
+    "file": "/img/open.360eccbc.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/partner-poster-bg.10798949.webp": {
+    "file": "/img/partner-poster-bg.10798949.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/partner-top.e47825be.webp": {
+    "file": "/img/partner-top.e47825be.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/people.9680a571.webp": {
+    "file": "/img/people.9680a571.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/phone-icon.f5a6cddf.webp": {
+    "file": "/img/phone-icon.f5a6cddf.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/pig-go-sign.31e2c631.webp": {
+    "file": "/img/pig-go-sign.31e2c631.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/pig-sign.a87cb71f.webp": {
+    "file": "/img/pig-sign.a87cb71f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/pig-start.c4e9c563.webp": {
+    "file": "/img/pig-start.c4e9c563.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/processStep-title.10fafb44.webp": {
+    "file": "/img/processStep-title.10fafb44.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/qq.4e282df4.webp": {
+    "file": "/img/qq.4e282df4.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/qq.9ad94db4.webp": {
+    "file": "/img/qq.9ad94db4.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/reading.4de3e1bb.webp": {
+    "file": "/img/reading.4de3e1bb.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/receiveRedPacketModal.744dbfd4.webp": {
+    "file": "/img/receiveRedPacketModal.744dbfd4.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/record-empty.b50c11f7.webp": {
+    "file": "/img/record-empty.b50c11f7.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/record-intro-bg.4edf5a9e.webp": {
+    "file": "/img/record-intro-bg.4edf5a9e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/record-share.25204e00.webp": {
+    "file": "/img/record-share.25204e00.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/recordStats.35820524.webp": {
+    "file": "/img/recordStats.35820524.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/recruit-btn.8fe5d026.webp": {
+    "file": "/img/recruit-btn.8fe5d026.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/recruitMiner1.c44d50f4.webp": {
+    "file": "/img/recruitMiner1.c44d50f4.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/recruitMiner2.a29c884e.webp": {
+    "file": "/img/recruitMiner2.a29c884e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/recruitMiner3.fcfb4bdc.webp": {
+    "file": "/img/recruitMiner3.fcfb4bdc.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/roulette_bg.e9dbc34f.webp": {
+    "file": "/img/roulette_bg.e9dbc34f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/roulette_bg_coin.aa8e3cfb.webp": {
+    "file": "/img/roulette_bg_coin.aa8e3cfb.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/roulette_pointer.f0681f16.webp": {
+    "file": "/img/roulette_pointer.f0681f16.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/running-bg.fbd981b4.webp": {
+    "file": "/img/running-bg.fbd981b4.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/seal.8b04a13d.webp": {
+    "file": "/img/seal.8b04a13d.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/shops.57bc284a.webp": {
+    "file": "/img/shops.57bc284a.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/sms-banner.4321902f.webp": {
+    "file": "/img/sms-banner.4321902f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/sms-page-bg.4accbbb2.webp": {
+    "file": "/img/sms-page-bg.4accbbb2.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/sms.de158fd5.webp": {
+    "file": "/img/sms.de158fd5.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/teach-bottom.3e478c85.webp": {
+    "file": "/img/teach-bottom.3e478c85.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/teach-mask.4f50eebd.webp": {
+    "file": "/img/teach-mask.4f50eebd.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/teach-person.e9bd4050.webp": {
+    "file": "/img/teach-person.e9bd4050.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/teach.9c77138d.webp": {
+    "file": "/img/teach.9c77138d.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/ten-year-bg.4339fe14.webp": {
+    "file": "/img/ten-year-bg.4339fe14.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/toast.dff1e34c.webp": {
+    "file": "/img/toast.dff1e34c.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/toastModal.e2f3d09d.webp": {
+    "file": "/img/toastModal.e2f3d09d.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/toolsMiner.ccbd3639.webp": {
+    "file": "/img/toolsMiner.ccbd3639.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/truck.bac9770d.webp": {
+    "file": "/img/truck.bac9770d.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/turntable.1f4e5b93.webp": {
+    "file": "/img/turntable.1f4e5b93.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/update.b7cc2259.webp": {
+    "file": "/img/update.b7cc2259.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/updateVersion.1843807e.webp": {
+    "file": "/img/updateVersion.1843807e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/watermark.7795a529.webp": {
+    "file": "/img/watermark.7795a529.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/watermark.f34f059c.webp": {
+    "file": "/img/watermark.f34f059c.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/wechat-login-btn.74968caa.webp": {
+    "file": "/img/wechat-login-btn.74968caa.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/wechat.169be63f.webp": {
+    "file": "/img/wechat.169be63f.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/wechat.335f7e3d.webp": {
+    "file": "/img/wechat.335f7e3d.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/wechat.5539640e.webp": {
+    "file": "/img/wechat.5539640e.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/withdraw-empty.28c68e14.webp": {
+    "file": "/img/withdraw-empty.28c68e14.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/withdraw-record-empty.e1dea5d6.webp": {
+    "file": "/img/withdraw-record-empty.e1dea5d6.webp",
+    "mimeType": "image/webp",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/banner.a3b17f44.jpg": {
+    "file": "/img/banner.a3b17f44.jpg",
+    "mimeType": "image/jpeg",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/bg.7d3910ab.jpg": {
+    "file": "/img/bg.7d3910ab.jpg",
+    "mimeType": "image/jpeg",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide-cover.371a0951.jpg": {
+    "file": "/img/slide-cover.371a0951.jpg",
+    "mimeType": "image/jpeg",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/bannet.287421bb.png": {
+    "file": "/img/bannet.287421bb.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/bg.7ff407b2.png": {
+    "file": "/img/bg.7ff407b2.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/browser-open.26a46db6.png": {
+    "file": "/img/browser-open.26a46db6.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/change-bg-1.7906299d.png": {
+    "file": "/img/change-bg-1.7906299d.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/change-bg-2.eedc58bd.png": {
+    "file": "/img/change-bg-2.eedc58bd.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/click-browser.fa4e068c.png": {
+    "file": "/img/click-browser.fa4e068c.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/designation.868aa58d.png": {
+    "file": "/img/designation.868aa58d.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/download-tip-top.34e7d5f7.png": {
+    "file": "/img/download-tip-top.34e7d5f7.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/download-top.ad4774d1.png": {
+    "file": "/img/download-top.ad4774d1.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/download.138b1ba1.png": {
+    "file": "/img/download.138b1ba1.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/fallback-recode.414d2f4a.png": {
+    "file": "/img/fallback-recode.414d2f4a.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/guide-arrow.d61ce9be.png": {
+    "file": "/img/guide-arrow.d61ce9be.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/guide.04dc2dbc.png": {
+    "file": "/img/guide.04dc2dbc.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lan-3.49d93acc.png": {
+    "file": "/img/lan-3.49d93acc.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lan-4.00bcc226.png": {
+    "file": "/img/lan-4.00bcc226.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lan-5.549da7db.png": {
+    "file": "/img/lan-5.549da7db.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lantern-night.9be5e16a.png": {
+    "file": "/img/lantern-night.9be5e16a.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lantern-on.5a36b642.png": {
+    "file": "/img/lantern-on.5a36b642.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/lantern.1ae499e9.png": {
+    "file": "/img/lantern.1ae499e9.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/network-error.c8c84529.png": {
+    "file": "/img/network-error.c8c84529.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/no-withdraw-tip.79aa7e5d.png": {
+    "file": "/img/no-withdraw-tip.79aa7e5d.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/novice-bg.e95f087d.png": {
+    "file": "/img/novice-bg.e95f087d.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/novice-lasted-bg.7d88d16b.png": {
+    "file": "/img/novice-lasted-bg.7d88d16b.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/novice.7880cc6e.png": {
+    "file": "/img/novice.7880cc6e.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/package-btn.ba38c79d.png": {
+    "file": "/img/package-btn.ba38c79d.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/package.e45312e5.png": {
+    "file": "/img/package.e45312e5.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/phonenumber-error.c1aa8c96.png": {
+    "file": "/img/phonenumber-error.c1aa8c96.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/play.dc9ce0f5.png": {
+    "file": "/img/play.dc9ce0f5.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/pneumonia-banner.c1e5bd30.png": {
+    "file": "/img/pneumonia-banner.c1e5bd30.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/preinvited-bg.e10fecf3.png": {
+    "file": "/img/preinvited-bg.e10fecf3.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/rouse-bg.55117c61.png": {
+    "file": "/img/rouse-bg.55117c61.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/rouse-btn.d4d054bf.png": {
+    "file": "/img/rouse-btn.d4d054bf.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/rouse-money-bg.af30d6fa.png": {
+    "file": "/img/rouse-money-bg.af30d6fa.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/share-bg-4.4.0.6077eb4f.png": {
+    "file": "/img/share-bg-4.4.0.6077eb4f.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/share-bg.8428b310.png": {
+    "file": "/img/share-bg.8428b310.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/share-epidemic.f1d388d5.png": {
+    "file": "/img/share-epidemic.f1d388d5.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/share-lucky-btn.88aef097.png": {
+    "file": "/img/share-lucky-btn.88aef097.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/share-title.d2a94d81.png": {
+    "file": "/img/share-title.d2a94d81.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/share.7931187d.png": {
+    "file": "/img/share.7931187d.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide_1.7ee3128f.png": {
+    "file": "/img/slide_1.7ee3128f.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide_10.fe226b6c.png": {
+    "file": "/img/slide_10.fe226b6c.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide_2.b2ca1331.png": {
+    "file": "/img/slide_2.b2ca1331.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide_3.4e2edd89.png": {
+    "file": "/img/slide_3.4e2edd89.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide_5.f52c9a0b.png": {
+    "file": "/img/slide_5.f52c9a0b.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide_6.52fd19c0.png": {
+    "file": "/img/slide_6.52fd19c0.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/slide_9.a039f7ec.png": {
+    "file": "/img/slide_9.a039f7ec.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/start-click.5b5d7eb8.png": {
+    "file": "/img/start-click.5b5d7eb8.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/success.459da10e.png": {
+    "file": "/img/success.459da10e.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/tip.17f8c750.png": {
+    "file": "/img/tip.17f8c750.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/turntable-button.4cf72d31.png": {
+    "file": "/img/turntable-button.4cf72d31.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/wechat-share.dc284823.png": {
+    "file": "/img/wechat-share.dc284823.png",
+    "mimeType": "image/png",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/guide-hand.ee751ca1.gif": {
+    "file": "/img/guide-hand.ee751ca1.gif",
+    "mimeType": "image/gif",
+    "charset": "utf-8"
+  },
+  "//ssl-cdn.static.browser.mi-img.com/feed/mobile-v2/img/open.d02ce371.gif": {
+    "file": "/img/open.d02ce371.gif",
+    "mimeType": "image/gif",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/error": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/task": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/chat/guide": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw/progress": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw/auth": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw/auth/result": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw/withdraw-manual": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw/bindid": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw/bindexample": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/withdraw/apply": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/income": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/income/reading": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/my-hobby": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/question-center": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/dockvideo": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/dockvideo?type=lockscreen": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/sign": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/fight-conv": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/logoff": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/sign-pig": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/lottery": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/lottery/record": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/invitation": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/invitation/face": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/invitation/sms": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/partner": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/partner/join": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/partner/income": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/partner/withdraw": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/invitation/receiveRecord": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/pddCooperation": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/recruit": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/mining?full_screen=true&launchMode=singleTask&o2o=inner": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/mining?full_screen=true&launchMode=singleTask&o2o=desktop": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/pddExchange": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/pddMall": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/pddMall/goods": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/pddMall/shops": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/pddMall/shopDetail": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/pddMall/goods/detail": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/running": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/running/exchangeRecords": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/act/tenYearGround": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  },
+  "//feed.browser.miui.com/mobile-v2/statistics": {
+    "file": "/index.html",
+    "mimeType": "text/html",
+    "charset": "utf-8"
+  }
+}

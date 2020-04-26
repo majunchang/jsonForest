@@ -1,0 +1,262 @@
+{
+    "//ssl-cdn.static.browser.mi-img.com/public/images/mifeeds-1.0.0.png": {
+        "file": "/mifeeds-1.0.0.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/public/images/mifeeds-1.0.0.ico": {
+        "file": "/mifeeds-1.0.0.ico",
+        "mimeType": "image/x-icon",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/public/libs/es6-promise/4.1.1/es6-promise.auto.min.js": {
+        "file": "/es6-promise.auto.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/public/libs/axios/0.18.0/axios.min.js": {
+        "file": "/axios.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/public/libs/vue/2.5.17/vue.runtime.min.js": {
+        "file": "/vue.runtime.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/public/libs/vue-router/3.0.2/vue-router.min.js": {
+        "file": "/vue-router.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/public/libs/raven.js/3.27.0/raven.min.js": {
+        "file": "/raven.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/0d99f34adebde4ba738a3595167a46fa42d8d698c/fmonitor-0.1.2.min.js?origin=allow": {
+        "file": "/fmonitor-0.1.2.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/mi-detail.min.js": {
+        "file": "/mi-detail.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/test/miuibrowser.min.js": {
+        "file": "/miuibrowser.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//static.mcc.miui.com/base.css": {
+        "file": "/base.css",
+        "mimeType": "text/css",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/test/miuibrowser.min.css": {
+        "file": "/miuibrowser.css",
+        "mimeType": "text/css",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/test/xknews.min.css": {
+        "file": "/xknews.css",
+        "mimeType": "text/css",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/miuibrowser.min.js": {
+        "file": "/miuibrowser.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/miuibrowser.min.css": {
+        "file": "/miuibrowser.min.css",
+        "mimeType": "text/css",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/v2/xknews.min.css": {
+        "file": "/xknews.min.css",
+        "mimeType": "text/css",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/077215fdaf955f909d9ab39f8929ed42e6741fafa/click.mp3": {
+        "file": "/click.mp3",
+        "mimeType": "audio/mpeg",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/0715c477baa3388bd420961227b7d5b987643ef80/round.mp3": {
+        "file": "/round.mp3",
+        "mimeType": "audio/mpeg",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/04c39e54a988a4cae3d672029a9d9eac8ec38b347/placeholder.png": {
+        "file": "/placeholder.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/065af58891c084a95d570547afc188da34041a249/Mitype2018-80.woff?origin=allow": {
+        "file": "/Mitype2018-80.woff",
+        "mimeType": "font/woff",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/038a2461417d044e3d51d40e84059b64b7b40377b/FZY4JW-GB1-0.woff?origin=allow": {
+        "file": "/FZY4JW-GB1-0.woff",
+        "mimeType": "font/woff",
+        "charset": "utf-8"
+    },
+    "//ssl-cdn.static.browser.mi-img.com/feed/sdk/fmonitor/index.min.js": {
+        "file": "/fmonitor.min.js",
+        "mimeType": "text/javascript",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/0ca5f491f0987febdabce831dc93819ee7f42542f/promoter.png": {
+        "file": "/promoter.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//ts.market.mi-img.com/download/Browser/0ca5f491f0987febdcbce231df93859ee8f42542f/partner.png": {
+        "file": "/partner.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner1Animation/data.json": {
+        "file": "/mining/miner1Animation/data.json",
+        "mimeType": "application/json",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner2Animation/data.json": {
+        "file": "/mining/miner2Animation/data.json",
+        "mimeType": "application/json",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner3Animation/data.json": {
+        "file": "/mining/miner3Animation/data.json",
+        "mimeType": "application/json",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner4Animation/data.json": {
+        "file": "/mining/miner4Animation/data.json",
+        "mimeType": "application/json",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/tunnalAnimation/data.json": {
+        "file": "/mining/tunnalAnimation/data.json",
+        "mimeType": "application/json",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner1Animation/images/img_1.png": {
+        "file": "/mining/miner1Animation/images/img_1.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner1Animation/images/img_2.png": {
+        "file": "/mining/miner1Animation/images/img_2.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner2Animation/images/img_1.png": {
+        "file": "/mining/miner2Animation/images/img_1.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner3Animation/images/img_1.png": {
+        "file": "/mining/miner3Animation/images/img_1.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner3Animation/images/img_2.png": {
+        "file": "/mining/miner3Animation/images/img_2.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner2Animation/images/img_2.png": {
+        "file": "/mining/miner2Animation/images/img_2.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner4Animation/images/img_0.png": {
+        "file": "/mining/miner4Animation/images/img_0.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner4Animation/images/img_2.png": {
+        "file": "/mining/miner4Animation/images/img_2.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner4Animation/images/img_3.png": {
+        "file": "/mining/miner4Animation/images/img_3.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/tunnalAnimation/images/img_5.png": {
+        "file": "/mining/tunnalAnimation/images/img_5.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner1Animation/images/img_0.png": {
+        "file": "/mining/miner1Animation/images/img_0.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner1Animation/images/img_3.png": {
+        "file": "/mining/miner1Animation/images/img_3.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner2Animation/images/img_0.png": {
+        "file": "/mining/miner2Animation/images/img_0.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner2Animation/images/img_3.png": {
+        "file": "/mining/miner2Animation/images/img_3.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner3Animation/images/img_0.png": {
+        "file": "/mining/miner3Animation/images/img_0.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner3Animation/images/img_3.png": {
+        "file": "/mining/miner3Animation/images/img_3.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner4Animation/images/img_1.png": {
+        "file": "/mining/miner4Animation/images/img_1.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/tunnalAnimation/images/img_3.png": {
+        "file": "/mining/tunnalAnimation/images/img_3.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/miner4Animation/images/img_4.png": {
+        "file": "/mining/miner4Animation/images/img_4.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/tunnalAnimation/images/img_4.png": {
+        "file": "/mining/tunnalAnimation/images/img_4.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/tunnalAnimation/images/img_2.png": {
+        "file": "/mining/tunnalAnimation/images/img_2.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/tunnalAnimation/images/img_1.png": {
+        "file": "/mining/tunnalAnimation/images/img_1.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    },
+    "//feed.browser.miui.com/mobile-v2/mining/tunnalAnimation/images/img_0.png": {
+        "file": "/mining/tunnalAnimation/images/img_0.png",
+        "mimeType": "image/png",
+        "charset": "utf-8"
+    }
+}
