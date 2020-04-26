@@ -5,6 +5,7 @@ echo "$1"
 if [ $1 = "master" ]
 then
 echo "我是master环境打包!"
+echo "merge request 触发"
 npm run build --online
 elif [ $1 = "test" ]
 then
