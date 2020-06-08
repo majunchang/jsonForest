@@ -1,14 +1,20 @@
 <template>
   <div class="lose-lottery-content">
     <div class="lose-lottery-container">
-      <div class="lose-lottery" :key="index" v-for="(item,index) in lotteryList">
+      <div
+        class="lose-lottery"
+        :key="index"
+        v-for="(item, index) in lotteryList"
+      >
         <div class="lose-lottery-title">{{ item.title }}</div>
         <div class="lose-lottery-lotteries">
           <div
             class="lottery-item"
             :key="ind"
-            v-for="(singleLottery,ind) in item.list"
-          >{{ singleLottery }}</div>
+            v-for="(singleLottery, ind) in item.list"
+          >
+            {{ singleLottery }}
+          </div>
         </div>
       </div>
     </div>

@@ -10,6 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@sentry/browser": "^5.16.1",
+    "@sentry/integrations": "^5.16.1",
     "axios": "^0.18.0",
     "element-ui": "^2.7.2",
     "vue": "^2.5.2",
